@@ -24,9 +24,11 @@
 ## Projects :
 
 ### Todo List
-<img src=""/>
  - github link : https://github.com/mbecquer/todo-list
  - website link : http://todolist-michael.atwebpages.com/
+
+![todo-list-screenshot](https://user-images.githubusercontent.com/77576674/143592382-a3c5adb8-826d-4fbc-a21b-181c85974f49.png)
+
 ## And more :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbecquer&show_icons=true&theme=dracula&title_color=bd93f9&text_color=ffffff&bg_color=383a59&locale=fr&layout=compact" alt="mbecquer" /><img  src="https://github-readme-stats.vercel.app/api?username=mbecquer&show_icons=true&locale=en" alt="mbecquer" /></p>
 
