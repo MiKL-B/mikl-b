@@ -5,17 +5,17 @@
 
 ## Description : 
 
-- 🔭 I’m currently working on [Les huiles végétales](https://github.com/mbecquer/Huile-Vegetale)
+- 🔭 I’m currently working on : [Les huiles végétales](https://github.com/mbecquer/Huile-Vegetale)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning : **C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mbecquer](https://github.com/mbecquer)
+- 👨‍💻 All of my projects are available at : [https://github.com/mbecquer](https://github.com/mbecquer)
 
-- 👾 Portfolio : https://mbecquer.github.io/
+- 👾 Portfolio : https://portfolio-mbecquer.netlify.app/ 
 
-- 📫 How to reach me **michaelbecquer@yahoo.fr**
+- 📫 How to reach me : **michaelbecquer@yahoo.fr**
 
-- ⚡ Fun fact **Coffee is always a good idea ! ☕**
+- ⚡ Fun fact : **Coffee is always a good idea ! ☕**
 
 - Connect with me :  <a href="https://linkedin.com/in/https://fr.linkedin.com/in/michael-becquer-41771a1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/michael-becquer-41771a1b9" height="30" width="40" /></a>
 
