@@ -5,10 +5,6 @@
 
 ## Description : 
 
-- 🔭 I’m currently working on : [Les huiles végétales](https://github.com/mbecquer/Huile-Vegetale)
-
-- 🌱 I’m currently learning : **C#**
-
 - 👨‍💻 All of my projects are available at : [https://github.com/mbecquer](https://github.com/mbecquer)
 
 - 👾 Portfolio : https://portfolio-mbecquer.netlify.app/ 
