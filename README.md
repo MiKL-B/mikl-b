@@ -5,9 +5,7 @@
 
 ## Description : 
 
-- 👨‍💻 All of my projects are available at : [https://github.com/mbecquer](https://github.com/mbecquer)
-
-- 👾 Portfolio : https://portfolio-mbecquer.netlify.app/ 
+- 👨‍💻 All of my projects are available here and in my portfolio : https://portfolio-mbecquer.netlify.app/ 
 
 - 📫 How to reach me : **michaelbecquer@yahoo.fr**
 
