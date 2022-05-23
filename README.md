@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact : **Coffee is always a good idea ! ☕**
 
-- Connect with me :  <a href="https://linkedin.com/in/https://fr.linkedin.com/in/michael-becquer-41771a1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/michael-becquer-41771a1b9" height="30" width="40" /></a>
+- Linkedin :  <a href="https://linkedin.com/in/https://fr.linkedin.com/in/michael-becquer-41771a1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/michael-becquer-41771a1b9" height="30" width="40" /></a>
 
 
 ## Languages and Tools :
