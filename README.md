@@ -5,8 +5,6 @@
 
 ## Description : 
 
-- 👨‍💻 All of my projects are available here and in my portfolio : https://portfolio-mbecquer.netlify.app/ 
-
 - 📫 How to reach me : **michaelbecquer@yahoo.fr**
 
 - ⚡ Fun fact : **Coffee is always a good idea ! ☕**
