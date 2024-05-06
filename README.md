@@ -5,6 +5,4 @@
 
 ## Description : 
 
-- 📫 How to reach me : **michaelbecquer@yahoo.fr**
-
 - ⚡ Fun fact : **Coffee is always a good idea ! ☕**
