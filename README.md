@@ -1,8 +1,23 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate developer!</h3>
-<p><a href="https://mikl-b.github.io/" target="blank">Portfolio</a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbecquer&label=Profile%20views&color=0e75b6&style=flat" alt="mbecquer" /> </p>
+# Hi, I'm Michaël 👋🏻👨‍💻 
+---
 
-## Description : 
+#### About me
+- ❤️ I'm a passionate web developer
+- 🧰 I'm currently working on a website with a forum
+- 🎓 I'm currently learning Typescript, PHP, Laravel and Docker
+- 💼 You can see my portfolio [here](https://mikl-b.github.io/)
 
-- ⚡ Fun fact : **Coffee is always a good idea ! ☕**
+#### My stack
+- HTML5, CSS3, JavaScript
+- Vue.js
+- TailwindCSS
+- Node.js, npm
+- API REST
+- Tests
+- Git, Github
+- Accessibility
+- SEO
+- Responsive design
+
+#### Connect with me 🤝🏻
+[<img align="left" alt="linkedin" width="42px" src="https://github.com/user-attachments/assets/064b9bf7-3823-481a-aa4d-4191a65521bc"/>](https://www.linkedin.com/in/michaelbecquer/)
